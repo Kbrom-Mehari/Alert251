@@ -2,6 +2,7 @@
 .gradle
 .idea
 .iml
+backend.iml
 
 # Ignore Gradle build output directory
 build
